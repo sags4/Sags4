@@ -17,34 +17,16 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/sagar-sagar-b32397172/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/sags4"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://twitter.com/SagarShivaraj4"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.instagram.com/sagar_shivaraj_/"
 
 # about
 about:
