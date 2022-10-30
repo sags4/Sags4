@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Sagar."
   subtitle: "Learning static site"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I study at <a target='_blank' href='https://ncjayanagar.com/'>NCJ</a>, an Autonomous college in Bengaluru. And I'm studying BCA.<a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -51,9 +51,10 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    I am a student at National College Jayanagar,I'm currently studying in 2nd year degree.
+    I am 19 years old.
+    I live in Bengaluru,Karnataka
+
     </p>
     <p class="lead">
     My area of focus lies in designing web and mobile products, user research as well as
@@ -63,7 +64,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/sagar-sagar-b32397172/"
   image:
     x: "img/who-am-i/user-picture1.jpg"
     _2x: "img/who-am-i/user-picture@2x.jpg"
@@ -73,19 +74,19 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "Bangalore University"
+      year: "2021-2024"
+      degree: "Bachelor of Computer Applications(BCA)"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - Pre-university: "National College"
+      year: "20019-2021"
+      stream: "Physics,Chemistry,Mathematics,Computer science(PCMCs)"
 
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  title: "Fresher"
+  description: "Looking for opportunities to work and learn things"
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -95,19 +96,7 @@ experience:
     btnText: "Download My Resume"
     URL: "#"
 
-  items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
-
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
-
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
-
+  
 # Client & Work
 client_and_work:
   title: "Clients & Works"
