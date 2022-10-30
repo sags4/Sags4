@@ -1,4 +1,4 @@
-baseURL = "https://sags4.github.io/sags/"
+baseURL = "https://github.com/sags4/sags"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
