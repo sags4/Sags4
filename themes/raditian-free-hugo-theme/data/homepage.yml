@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Hello, I’m Sagar."
-  subtitle: "Front-End Developer"
+  subtitle: "Learning static site"
   description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -65,8 +65,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/user-picture1.jpg"
+    _2x: "img/who-am-i/user-picture@2x.jpg"
 
 # education
 education:
